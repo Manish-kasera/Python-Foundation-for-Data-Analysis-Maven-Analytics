@@ -1,0 +1,46 @@
+use '%who' and '%whos' for tracking variables in python.
+
+slicing [start: stop: steps]
+
+String methods
+
+.find() , .upper(), .lower()., .replace(,) ,.strip() , 
+ .join(), .split(), .lstrip(), .rstrip()
+
+Membership Test check if value exist inside an iterable or not
+
+in and not in
+
+List : in,not in , .append() , .insert(index,val)
+       del list([]) , .remove(val) 
+       len() , sum() ,min() ,max() ,sum()/len()
+       .sort() -> sorting permanently
+       sorted() -> return sorted list but not change original list
+       index(value),.count(val) , .reverse()
+nested List : assign,copy and deepcopy(best)
+
+
+Enumerate function : return both index and element at that index
+
+use enumerate over range,length and index
+
+try :
+except: 
+
+Dictionary : methods : .keys(),.values(), .items() ,.update() ,.get()
+Set : .union() , .interaction() , difference() , symmetric_difference() -> opposite pf interaction
+
+
+Need to Learn More : Dictionary , Map, Comprehension amd lambda 
+
+Function :
+read how to docstring(documentation of function)
+
+# Creating a file ,import
+
+%%writefile test.py
+
+Package for data analysis : math , openpyxl, numpy,panda,mathplotlib,
+                             seaborn,ploty
+
+map(function,iterable)
